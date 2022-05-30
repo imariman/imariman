@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" alt="flutter" height="40" />
 &nbsp;&nbsp;&nbsp;
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Redis_Logo.svg/2560px-Redis_Logo.svg.png" alt="redis" height="40" />
+ <img src="https://wikiimg.tojsiabtv.com/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png" alt="redis" height="50" />
   &nbsp;&nbsp;&nbsp;
    <img src="https://berkayyildiz.com/wp-content/uploads/2017/09/postgresql-logo.png" alt="postgres" height="50" />
 &nbsp;&nbsp;&nbsp;
