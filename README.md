@@ -4,7 +4,7 @@
 * 6 years experienced Software Developer
 * Golang and Python Developer - Golang for backend, Python for AI 👨‍💻
 * Flutter Developer - Any kind of mobile, web and desktop apps 📱
-* Next.js Developer - Any kind of web apps
+* Next.js Developer - Any kind of web apps 🌐
 * Highly interested in AI, Blockchain and cyber security technologies 🚀
 
 <h2>Some Technologies I Use</h2>
