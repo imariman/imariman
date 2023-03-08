@@ -4,8 +4,8 @@
 * 4 years experienced Software Developer
 * Golang and Python Developer - Golang for backend, Python for AI 👨‍💻
 * Flutter Developer - Any kind of mobile, web and desktop apps 📱
+* Next.js Developer - Any kind of web apps
 * Highly interested in AI, Blockchain and cyber security technologies 🚀
-* Used to know technologies like Node.js, React and React Native; and programming languages like C# and Java, but not interested in these technologies anymore.
 
 <h2>Some Technologies I Use</h2>
 <p align="left">
@@ -14,6 +14,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" alt="python" height="40" />
 &nbsp;&nbsp;&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" alt="flutter" height="40" />
+&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="flutter" height="40" />
 &nbsp;&nbsp;&nbsp;
  <img src="https://wikiimg.tojsiabtv.com/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png" alt="redis" height="50" />
   &nbsp;&nbsp;&nbsp;
@@ -37,4 +39,4 @@
 
 ## Get in touch: 
 * ✨ Linkedin: https://www.linkedin.com/in/metehanariman/
-* ✨ Mail: metehan@swoddy.com
+* ✨ Mail: metehanariman@gmail.com
