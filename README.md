@@ -2,30 +2,10 @@
  
 
 * 6 years experienced Software Developer
-* Golang and Python Developer - Golang for backend, Python for AI 👨‍💻
+* Golang, Java and Python Developer - Golang for backend, Python for AI 👨‍💻
 * Flutter Developer - Any kind of mobile, web and desktop apps 📱
 * Next.js Developer - Any kind of web apps 🌐
 * Highly interested in AI, Blockchain and cyber security technologies 🚀
-
-<h2>Some Technologies I Use</h2>
-<p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="golang" height="40" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" alt="python" height="40" />
-&nbsp;&nbsp;&nbsp;
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" alt="flutter" height="40" />
-&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="flutter" height="40" />
-&nbsp;&nbsp;&nbsp;
- <img src="https://wikiimg.tojsiabtv.com/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png" alt="redis" height="50" />
-  &nbsp;&nbsp;&nbsp;
-   <img src="https://berkayyildiz.com/wp-content/uploads/2017/09/postgresql-logo.png" alt="postgres" height="50" />
-&nbsp;&nbsp;&nbsp;
-   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--UH1TGeVv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8glj0ft4s2aopqmec1xz.png" alt="dynamodb" height="50" />
-&nbsp;&nbsp;&nbsp;
-   <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" alt="docker" height="50" />
-&nbsp;&nbsp;&nbsp;
-</p>
 
 <h2>GitHub Stats</h2>
 <p align=center>
