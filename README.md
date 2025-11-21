@@ -1,7 +1,7 @@
 # Hi! 👋🏼 I'm Metehan Ariman, Mathematics Engineer from Turkey <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg/220px-Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg.png" alt="turkey" height="20" />
  
 
-* 6 years experienced Software Developer
+* 8 years experienced Software Developer
 * Golang, Java and Python Developer - Golang for backend, Python for AI 👨‍💻
 * Flutter Developer - Any kind of mobile, web and desktop apps 📱
 * Next.js Developer - Any kind of web apps 🌐
