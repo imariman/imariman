@@ -31,7 +31,3 @@ I specialize in architecting high-performance, secure, and low-latency distribut
 * **LinkedIn:** [linkedin.com/in/metehanariman/](https://www.linkedin.com/in/metehanariman/)
 * **Email:** [metehanariman@gmail.com](mailto:metehanariman@gmail.com)
 * **Website:** [metehanariman.com](https://metehanariman.com) (Coming Soon)
-
----
-
-![Metehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=metehanariman&show_icons=true&theme=tokyonight)
