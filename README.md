@@ -1,22 +1,37 @@
-# Hi! 👋🏼 I'm Metehan Ariman, Mathematics Engineer from Turkey <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg/220px-Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg.png" alt="turkey" height="20" />
- 
+# Hi there, I'm Metehan Ariman 👋
 
-* 8 years experienced Software Developer
-* Golang, Java and Python Developer - Golang for backend, Python for AI 👨‍💻
-* Flutter Developer - Any kind of mobile, web and desktop apps 📱
-* Next.js Developer - Any kind of web apps 🌐
-* Highly interested in AI, Blockchain and cyber security technologies 🚀
+### Senior Distributed Systems Engineer | Go & NATS Specialist
+I specialize in architecting high-performance, secure, and low-latency distributed systems. Currently, I am focused on building sovereign-grade secure communication infrastructures.
 
-<h2>GitHub Stats</h2>
-<p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=imariman&show_icons=true&theme=gotham">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imariman&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
-  </a>
-</p>
+---
 
-## Get in touch: 
-* ✨ Linkedin: https://www.linkedin.com/in/metehanariman/
-* ✨ Mail: metehanariman@gmail.com
+### 🛠 Tech Stack & Expertise
+* **Languages:** Golang (Expert), Protobuf, Java, SQL, Dart.
+* **Infrastructure:** Distributed Systems, NATS (Messaging & JetStream), Microservices, gRPC, WebSockets.
+* **Performance:** Low-latency architecture, Concurrency patterns in Go, System Optimization.
+* **Security:** End-to-End Encryption, Zero-Trust Architectures, GDPR/HIPAA Compliance.
+* **Storage:** PostgreSQL, Couchbase, Redis.
+
+---
+
+### 📈 Professional Focus
+* **Secure Communications:** Engineering resilient backends for government-level privacy at **RealTyme**.
+* **Fintech:** Scaled international remittance and payment orchestration systems for Tier-1 partners (Wise, Remitly).
+* **Product Engineering:** Former founder (Swoddy) with a deep interest in building scalable SaaS solutions from the ground up.
+
+---
+
+### 🚀 Key Projects
+* **Distributed Systems Lab:** Experiments with Go, NATS, and high-concurrency patterns.
+* **Cross-Platform Architecture:** Designing seamless integrations between Go backends and Flutter-based mobile/wearable ecosystems.
+
+---
+
+### 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/metehanariman/](https://www.linkedin.com/in/metehanariman/)
+* **Email:** [metehanariman@gmail.com](mailto:metehanariman@gmail.com)
+* **Website:** [metehanariman.com](https://metehanariman.com) (Coming Soon)
+
+---
+
+![Metehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=metehanariman&show_icons=true&theme=tokyonight)
